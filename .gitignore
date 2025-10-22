@@ -52,3 +52,5 @@ logs/
 
 # H2 Database
 *.mv.db
+
+*.txt
